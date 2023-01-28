@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005721788999",
+    "project_id": "murud-janjira-tourisum",
+    "storage_bucket": "murud-janjira-tourisum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005721788999:android:6034812ce71bde1824c762",
+        "android_client_info": {
+          "package_name": "com.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005721788999-lnp5elus9vbj1q6apvmmlbn5lud573mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAt4MuI4zPWzqw2ypmwYhGipL-Ae5p_ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005721788999-lnp5elus9vbj1q6apvmmlbn5lud573mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
